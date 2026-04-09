@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*-lYKsAKOdvXMe4lkSnpRFA.png" width="100" alt="project-logo">
 </p>
 <p align="center">
-    <h1 align="center">📈 Dockerized ML-Powered Sales Forecasting API</h1>
+    <h1 align="center">📈 Dockerized ML-Powered Sales Forecasting API with CI/CD</h1>
 </p>
 <p align="center"> <em>Developed with the software and tools below.</em>
 </p>
@@ -68,8 +68,8 @@ pip3 install fastapi uvicorn pandas numpy scikit-learn python-dateutil openpyxl
 
  Clone the repo:
 ```bash
-git clone https://github.com/muzahidswe/dockerized-ml-sales-forecasting-api.git
-cd dockerized-ml-sales-forecasting-api
+git clone https://github.com/muzahidswe/dockerized-ml-sales-forecasting-api-ci-cd
+cd dockerized-ml-sales-forecasting-api-ci-cd
 ```
 ## 🚀 Running the Prediction Server
 To start the service and keep it running for Node.js requests, navigate to the backend folder and run:
