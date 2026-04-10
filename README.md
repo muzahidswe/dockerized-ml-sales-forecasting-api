@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/NODEMON-%231e211e.svg?style=for-the-badge&logo=nodemon&logoColor=bbdec2" alt="Nodemon">
 <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/CI/CD-pipeline-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
 
 # 📈 ML-Powered Sales Forecasting API
